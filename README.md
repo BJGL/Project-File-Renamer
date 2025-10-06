@@ -18,7 +18,7 @@ The **File Renamer** automates the process of naming large volumes of documents 
 
 * Programming language: **Python 3.12.11**
 * Environment: **Google Colab**
-* Specific libraries: **OS**
+* Specific libraries: **OS, datetime**
   
 ---
 
