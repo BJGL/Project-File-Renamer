@@ -22,14 +22,3 @@ The **File Renamer** automates the process of naming large volumes of documents 
   
 ---
 
-### 💻 Installation
-
-```bash
-# Clone the repository
-git clone [https://www.youtube.com/watch?v=eQMcIGVc8N0](https://www.youtube.com/watch?v=eQMcIGVc8N0)
-
-# Navigate to the project directory
-cd [repository-name]
-
-# Install dependencies (if applicable)
-[Dependency installation command. E.g.: pip install -r requirements.txt]
